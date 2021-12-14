@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/neg4n/next-api-og-image#readme",
   "source": "src/index.ts",
-  "main": "./lib/next-api-og-image.cjs",
+  "main": "./lib/next-api-og-image.umd.js",
   "module": "./lib/next-api-og-image.module.js",
   "unpkg": "./lib/next-api-og-image.umd.js",
   "types": "./lib/index.d.ts",
