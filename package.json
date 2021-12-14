@@ -34,7 +34,6 @@
   "main": "./lib/next-api-og-image.js",
   "module": "./lib/next-api-og-image.module.js",
   "unpkg": "./lib/next-api-og-image.umd.js",
-  "exports": "./lib/next-api-og-image.modern.js",
   "types": "./lib/index.d.ts",
   "files": [
     "lib"
